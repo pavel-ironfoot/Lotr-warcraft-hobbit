@@ -1,0 +1,124 @@
+.main{
+    border: 1px solid black;
+    padding: 10px;
+    background-image: linear-gradient(to bottom,rgb(243, 230, 186), rgb(204, 208, 245));
+    margin-right: 4px;
+}
+.main div{
+    margin-top: 5px;
+}
+.abs{ 
+    position: absolute;
+    left: 120px;
+    top: -200px;
+    width: 0px;
+    height: 200px;
+    /* opacity: 0;  */
+    transition: all ease-out 1s;
+}
+.hobbitPic{
+    position: relative;
+    width: fit-content;
+}
+
+.hobbitPic:hover .abs{
+    display: block;
+    /* opacity: 1;  */
+    width: 200px;
+}
+.abs img{
+    height: 100%;
+}
+.abs2{ 
+    position: absolute;
+    left: 120px;
+    top: -200px;
+    width: 0px;
+    height: 250px;
+    transition: all ease-out 1s;
+}
+.hobbitPic:hover .abs2{
+    display: block;
+    width: 215px;
+}
+.abs3{ 
+    position: absolute;
+    left: 120px;
+    top: -200px;
+    width: 0px;
+    height: 360px;
+    transition: all ease-out 1s;
+}
+.hobbitPic:hover .abs3{
+    display: block;
+    width: 250px;
+}
+.main h3{
+    padding-top: 10px;
+    padding-bottom: 2px;
+}
+/* ////////////////////////////////////////////// */
+
+.lotrPic{
+    position: relative;
+    width: fit-content;
+}
+.abs4{ 
+    position: absolute;
+    left: 120px;
+    top: -200px;
+    width: 0px;
+    height: 274px;
+    transition: all ease-out 1s;
+}
+.lotrPic:hover .abs4{
+    display: block;
+    width: 184px;
+}
+
+.abs5{ 
+    position: absolute;
+    left: 120px;
+    top: -200px;
+    width: 0px;
+    height: 168px;
+    transition: all ease-out 1s;
+}
+.lotrPic:hover .abs5{
+    display: block;
+    width: 300px;
+}
+
+.abs6{ 
+    position: absolute;
+    left: 120px;
+    top: -200px;
+    width: 0px;
+    height: 326px;
+    transition: all ease-out 1s;
+}
+.lotrPic:hover .abs6{
+    display: block;
+    width: 220px;
+}
+/* ////////////////////////////////////////////// */
+
+.warcraftPic{
+    position: relative;
+    width: fit-content;
+} 
+.abs7{ 
+    position: absolute;
+    left: 120px;
+    top: -200px;
+    width: 0px;
+    height: 320px;
+    transition: all ease-out 1s;
+}
+.warcraftPic:hover .abs7{
+    display: block;
+    width: 150px;
+}
+.mainDecoration{
+    text-decoration: none;
+}

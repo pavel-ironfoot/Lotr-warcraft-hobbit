@@ -1,0 +1,22 @@
+.mainCharacter{
+    padding: 10px;
+    background-image: linear-gradient(to right,rgb(151, 190, 202),rgb(186, 198, 252));
+}
+.characterImg{
+    width:50%;
+}
+.characterMovie{
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.movieNavs{
+    display: flex;
+    flex-wrap: wrap;
+}
+.mainCharacter hr{
+    background-color: black;
+}
+blockquote{
+    font-style: italic;
+}

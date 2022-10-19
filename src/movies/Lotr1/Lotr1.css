@@ -1,0 +1,34 @@
+.lotr1MoviePage{
+    border: 1px solid black;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-image: linear-gradient(to top,rgb(243, 232, 168),rgb(247, 188, 121));
+}
+.lotr1MoviePage img{
+    margin: 3px;
+    width: 50%;
+}
+.lotr1MoviePage ul{
+    margin: 2px 15px;
+    list-style:none;
+}
+.lotr1MoviePage ul li{
+    margin: 2px;
+    display: inline-block;
+    padding: 3px;
+}
+.lotr1Nav{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+}
+.lotr1MoviePage ul li :hover {
+    color: rgb(145, 24, 24);
+    background-color: bisque;
+}
+p{
+    padding: 2px;
+    text-indent: 20px;
+}

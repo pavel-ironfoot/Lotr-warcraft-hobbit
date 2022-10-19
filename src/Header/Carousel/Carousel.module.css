@@ -1,0 +1,41 @@
+.containerIn{
+    border: 1px solid black;
+    display: flex;
+    width: 100%;
+}
+
+.twoHeader{
+    min-width: 200px;
+}
+
+.slider{
+    margin: 5px;
+    border: 1px solid black;
+    flex: 1;
+    max-width: 802px;   
+    overflow: hidden;
+}
+.images{
+    display: flex;
+    position: relative;
+    transition: all ease 1000ms;
+}
+img{
+    width: 100%;
+}
+.bt{
+    width: 5%;
+    border: 1px solid black;
+}
+.bt1{
+    background-image: linear-gradient(to left, rgb(186, 199, 206), rgb(61, 98, 146)) ;
+}
+.bt2{
+    background-image: linear-gradient(to right, rgb(186, 199, 206), rgb(61, 98, 146));
+}
+.bt1:hover{
+    background-image: linear-gradient(to right, rgb(186, 199, 206), rgb(61, 98, 146));
+}
+.bt2:hover{
+    background-image: linear-gradient(to left, rgb(186, 199, 206), rgb(61, 98, 146));
+}

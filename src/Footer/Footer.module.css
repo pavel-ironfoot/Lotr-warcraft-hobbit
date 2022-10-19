@@ -1,0 +1,19 @@
+.footer{
+    border: 1px solid black;
+    min-height: 100px;
+    grid-column: span 2;
+    background-image: linear-gradient(to top,rgb(216, 214, 210), rgb(88, 112, 141));
+    margin: 4px;
+    padding: 5px 20px;
+}
+button{
+    padding: 3px;
+    font-size: 15px;
+    color: black;
+    font-weight: 600;
+}
+select{
+    height: 25px;
+    font-weight: 700;
+    font-size: 16px;
+}

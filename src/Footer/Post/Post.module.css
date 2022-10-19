@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    margin-top: 3px;
+}
+.img{
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+}
+.img img{
+    border-radius: 50%; 
+}
+.postName{
+    margin-top: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.postText{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

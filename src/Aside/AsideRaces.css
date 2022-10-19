@@ -1,0 +1,19 @@
+.asideRacesContainer{
+    padding: 10px;
+}
+.asideRacesNav{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+}
+.asideRacesContainer ul{
+    list-style: none;
+}
+.asideRacesContainer ul li{
+    margin: 5px;
+}
+.asideRacesContainer ul li :hover {
+    color: rgb(145, 24, 24);
+    background-color: bisque;
+}
