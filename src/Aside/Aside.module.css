@@ -1,9 +1,9 @@
 .aside{
-    border: 1px solid black;
     padding: 5px;
     padding-left: 10%;
     background-image: linear-gradient(to bottom,rgb(243, 230, 186), rgb(160, 233, 233));
     margin-left: 4px;
+    margin-right: 4px;
 }
 .lightSide{
     display: block;

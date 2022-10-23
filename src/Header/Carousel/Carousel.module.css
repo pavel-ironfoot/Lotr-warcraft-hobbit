@@ -1,5 +1,4 @@
 .containerIn{
-    border: 1px solid black;
     display: flex;
     width: 100%;
 }
@@ -10,7 +9,6 @@
 
 .slider{
     margin: 5px;
-    border: 1px solid black;
     flex: 1;
     max-width: 802px;   
     overflow: hidden;
@@ -25,17 +23,18 @@ img{
 }
 .bt{
     width: 5%;
-    border: 1px solid black;
 }
 .bt1{
-    background-image: linear-gradient(to left, rgb(186, 199, 206), rgb(61, 98, 146)) ;
+    background-image: linear-gradient(to left, rgb(186, 199, 206), rgb(38, 71, 114));
+    border-radius: 5%;
 }
 .bt2{
-    background-image: linear-gradient(to right, rgb(186, 199, 206), rgb(61, 98, 146));
+    background-image: linear-gradient(to right, rgb(186, 199, 206), rgb(44, 81, 129));
+    border-radius: 5%;
 }
 .bt1:hover{
-    background-image: linear-gradient(to right, rgb(186, 199, 206), rgb(61, 98, 146));
+    background-image: linear-gradient(to right, rgb(186, 199, 206), rgb(34, 72, 121));
 }
 .bt2:hover{
-    background-image: linear-gradient(to left, rgb(186, 199, 206), rgb(61, 98, 146));
+    background-image: linear-gradient(to left, rgb(186, 199, 206), rgb(37, 73, 121));
 }

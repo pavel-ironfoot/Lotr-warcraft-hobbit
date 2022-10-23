@@ -1,0 +1,36 @@
+.Result{
+    background-color: rgb(194, 224, 221);
+    width: 400px;
+    height: min-content;
+    border-radius: 8px;
+    padding-top:15px;
+    padding-bottom: 15px;
+}
+.happyImg{
+    width: 50%;
+    margin: 2px auto;
+    border-radius: 5%;
+}
+.happyText{
+    margin: 2px auto;
+    width: 80%;
+}
+.resultImg{
+    width: 100%;
+    border-radius: 5%;
+}
+.resultButton{
+    font-weight: 700;
+    width: 140px;
+    padding: 7px 3px;
+    border-radius: 14px;
+    background-color: rgb(236, 110, 158);
+    border: none;
+}
+.resultButton:hover{
+    background-color: rgb(138, 108, 120);
+}
+.happyButton{   
+    margin: 2px auto;
+    width: min-content;
+}

@@ -9,7 +9,7 @@
   grid-template-rows: min-content 1fr min-content;
   min-height: 100vh;
   margin: 5px 15px;
-  background-color: rgb(206, 195, 165);
+  background-color: rgb(63, 62, 61);
   min-width: 550px;
   padding: 2px;
 }

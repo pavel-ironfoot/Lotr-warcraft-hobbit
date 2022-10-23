@@ -1,5 +1,6 @@
 .asideRacesContainer{
     padding: 10px;
+    background-image: linear-gradient(to right, rgb(158, 202, 212),rgb(155, 235, 139));
 }
 .asideRacesNav{
     text-decoration: none;

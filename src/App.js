@@ -2,7 +2,7 @@ import './App.css';
 import Header from './Header/Header.js';
 import Aside from './Aside/Aside.js';
 import Main from './Main/Main.js';
-import Registration from './Registration/Registration';
+import Quiz from './Quiz/Quiz.js';
 import Login from './Login/Login';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import React from 'react';
@@ -72,7 +72,7 @@ const racesFilterEnt= charactersTest.filter((elem)=>{
       
         <Routes>
           <Route path='/' element={<Main  />}/>
-          <Route path='/registration' element={<Registration  />}/>
+          <Route path='/quiz' element={<Quiz  />}/>
           <Route path='/login' element={<Login  />}/>   
           <Route path='/lotr1' element={<Lotr1  charactersTest={charactersTest}/>}/>     
           <Route path='/lotr2' element={<Lotr2  charactersTest={charactersTest}/>}/>    

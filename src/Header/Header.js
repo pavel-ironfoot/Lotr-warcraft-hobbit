@@ -34,7 +34,7 @@ const Header = () =>{
           <hr  />
           
                 <div className={objHeader.registrationMenu}>
-          <NavLink to="/registration" className={objHeader.btRegistration}>Registration</NavLink>     
+          <NavLink to="/quiz" className={objHeader.btRegistration}>Quiz</NavLink>     
           {/* <hr  />       */}
           <NavLink to="/login" className={objHeader.btLogIn}>Log in</NavLink>
         </div>
