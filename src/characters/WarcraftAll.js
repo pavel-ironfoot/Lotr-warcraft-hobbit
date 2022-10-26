@@ -212,8 +212,7 @@ const WarcraftAll= (props) =>{
             return thranduil;
         }else if(props.warCh.warPic=='treebeard'){
             return treebeard;
-        }
-         
+        } 
     };
     return (
         <div className='mainCharacter'>

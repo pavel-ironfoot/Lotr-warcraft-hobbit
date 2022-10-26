@@ -63,7 +63,6 @@ const racesFilterEnt= charactersTest.filter((elem)=>{
   if(elem.race==='ent') {return elem}
 });
 
-
   return (
     <BrowserRouter>
       <div className="App">

@@ -1,20 +1,30 @@
 .asideRacesContainer{
     padding: 10px;
     background-image: linear-gradient(to right, rgb(158, 202, 212),rgb(155, 235, 139));
+    margin-right: 4px;
 }
-.asideRacesNav{
+/*changed*/
+.asideRacesMainBlock{
+    display: flex;
+    flex-wrap: wrap;
+}
+.mainRacesWithPic{
     text-decoration: none;
     color: black;
     font-size: 16px;
     font-weight: 600;
+    /* height: 160px; */
 }
-.asideRacesContainer ul{
-    list-style: none;
+.mainRacesWithPic:hover{
+    color: blue;
 }
-.asideRacesContainer ul li{
+.asideImgAll{
+    width: 100%;
+}
+.asideRacesMainBlockIn{
+    width: 155px;
     margin: 5px;
 }
-.asideRacesContainer ul li :hover {
-    color: rgb(145, 24, 24);
-    background-color: bisque;
+.personName{
+    margin-bottom: 4px;
 }

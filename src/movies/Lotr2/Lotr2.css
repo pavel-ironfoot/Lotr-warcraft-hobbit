@@ -1,22 +1,13 @@
 .lotr2MoviePage{
-    border: 1px solid black;
+    margin-right: 4px;
     padding: 10px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 16px;
     background-image: linear-gradient(to top,rgb(168, 213, 243),rgb(181, 247, 243));
 }
-.lotr2MoviePage img{
+.lotr2MoviePage .lotr2pic{
     margin: 3px;
-    width: 50%;
-}
-.lotr2MoviePage ul{
-    margin: 2px 15px;
-    list-style:none;
-}
-.lotr2MoviePage ul li{
-    margin: 2px;
-    display: inline-block;
-    padding: 3px;
+    width: 70%;
 }
 .lotr2Nav{
     text-decoration: none;
@@ -24,11 +15,26 @@
     font-size: 16px;
     font-weight: 600;
 }
-.lotr2MoviePage ul li :hover {
-    color: rgb(145, 24, 24);
-    background-color: bisque;
-}
 p{
     padding: 2px;
     text-indent: 20px;
+}
+.lotr2Nav:hover{
+    color: rgb(2, 17, 105);
+}
+.imgMovie{
+    width: 100%;
+    height: 100px;
+}
+.liImgMovie{
+    width: 100px;
+}
+/*change*/
+.lotr2MoviePage .divCharacters{
+    margin: 2px 15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.imgMovieDiv{
+    width: 100px;
 }

@@ -1,6 +1,7 @@
 .mainCharacter{
     padding: 10px;
     background-image: linear-gradient(to right,rgb(151, 190, 202),rgb(186, 198, 252));
+    margin-right: 4px;
 }
 .characterImg{
     width:50%;
