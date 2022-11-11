@@ -5,10 +5,15 @@ import { useDispatch, useSelector } from 'react-redux';
 
 
 const Footer =()=>{
-  const [postName1,setPostName1] = useState([
+  const [postName1,setPostName1] = useState(JSON.parse(localStorage.getItem('footerMessage')) || [
     {id:1, name:'Some Human',text:'You can leave comments only about movie!',face:'mite'},
     {id:2, name:'Some Orc',text:'No politics and racism here!',face:'orc'},
   ]);
+
+  React.useEffect(()=>{
+    localStorage.setItem('footerMessage',JSON.stringify(postName1));
+  },[postName1]);
+
   const [newComment,setNewComment] = useState('enter the comment...');
   const [faceChoose,setFaceChoose] = useState('');
   
