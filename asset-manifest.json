@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Lotr-warcraft-hobbit/static/css/main.1f922892.css",
-    "main.js": "/Lotr-warcraft-hobbit/static/js/main.f5b15cf9.js",
+    "main.css": "/Lotr-warcraft-hobbit/static/css/main.0ea35d55.css",
+    "main.js": "/Lotr-warcraft-hobbit/static/js/main.a4ed5e7c.js",
     "static/js/787.db54dd01.chunk.js": "/Lotr-warcraft-hobbit/static/js/787.db54dd01.chunk.js",
     "static/media/logo9.png": "/Lotr-warcraft-hobbit/static/media/logo9.ae606e296bad3b33190e.png",
     "static/media/smaug-treasure.gif": "/Lotr-warcraft-hobbit/static/media/smaug-treasure.4d127e5f311af4d89abc.gif",
@@ -77,6 +77,7 @@
     "static/media/eomer.png": "/Lotr-warcraft-hobbit/static/media/eomer.be1dde8a410d5a535c76.png",
     "static/media/bolg.png": "/Lotr-warcraft-hobbit/static/media/bolg.760aa272cb2717f15ab8.png",
     "static/media/ugluk.png": "/Lotr-warcraft-hobbit/static/media/ugluk.b810ae4e5922b5f32f7b.png",
+    "static/media/oneRing.png": "/Lotr-warcraft-hobbit/static/media/oneRing.6b67cf6db08f876bac45.png",
     "static/media/tom.png": "/Lotr-warcraft-hobbit/static/media/tom.daba044d41b3cb3006ef.png",
     "static/media/dori.png": "/Lotr-warcraft-hobbit/static/media/dori.817e9a7d6cf3dc3de895.png",
     "static/media/gothmog.png": "/Lotr-warcraft-hobbit/static/media/gothmog.c6802b949557f2f6f1ba.png",
@@ -134,12 +135,12 @@
     "static/media/troll.jpg": "/Lotr-warcraft-hobbit/static/media/troll.7505a4849f3b47518408.jpg",
     "static/media/lotr1.jpg": "/Lotr-warcraft-hobbit/static/media/lotr1.512fddf7e9231955553b.jpg",
     "index.html": "/Lotr-warcraft-hobbit/index.html",
-    "main.1f922892.css.map": "/Lotr-warcraft-hobbit/static/css/main.1f922892.css.map",
-    "main.f5b15cf9.js.map": "/Lotr-warcraft-hobbit/static/js/main.f5b15cf9.js.map",
+    "main.0ea35d55.css.map": "/Lotr-warcraft-hobbit/static/css/main.0ea35d55.css.map",
+    "main.a4ed5e7c.js.map": "/Lotr-warcraft-hobbit/static/js/main.a4ed5e7c.js.map",
     "787.db54dd01.chunk.js.map": "/Lotr-warcraft-hobbit/static/js/787.db54dd01.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f922892.css",
-    "static/js/main.f5b15cf9.js"
+    "static/css/main.0ea35d55.css",
+    "static/js/main.a4ed5e7c.js"
   ]
 }
