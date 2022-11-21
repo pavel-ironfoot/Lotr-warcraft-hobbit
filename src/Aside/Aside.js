@@ -14,7 +14,7 @@ const Aside = (props) =>{
 
     return (
       <div className={obj.aside}>
-        <NavLink className={obj.movies} to='/'>All Movies</NavLink>
+        <NavLink className={obj.movies} to='/Lotr-warcraft-hobbit'>All Movies</NavLink>
         <h3>Light side</h3>
         
           {lightRase}

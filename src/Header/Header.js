@@ -11,7 +11,7 @@ const Header = () =>{
       <div className={objHeader.Header}>
 
         <div className={objHeader.oneHeader}>
-          <NavLink className={objHeader.navLink1} to='/'>
+          <NavLink className={objHeader.navLink1} to='/Lotr-warcraft-hobbit'>
             <img alt='mainLogo' src={mainLogo} />
           
             <h1>World of Arda</h1>
