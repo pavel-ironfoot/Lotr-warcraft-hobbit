@@ -6,14 +6,9 @@ const Preloader = () => {
 
     let timePreloader= setTimeout(()=>{
             console.log('set');
-            setDisplayPt('none');
-            
+            setDisplayPt('none');          
         },3000)
 
-    React.useEffect(()=>{
-        clearTimeout(timePreloader);
-        console.log('time')
-    },[displayPr]);  
 
     return (
         <div style={{ display: displayPr}} className={styles.Preloader}>
