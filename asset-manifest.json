@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Lotr-warcraft-hobbit/static/css/main.09ac1ae6.css",
-    "main.js": "/Lotr-warcraft-hobbit/static/js/main.d80d77a9.js",
+    "main.css": "/Lotr-warcraft-hobbit/static/css/main.6aff12bf.css",
+    "main.js": "/Lotr-warcraft-hobbit/static/js/main.2cfbcd53.js",
     "static/js/787.db54dd01.chunk.js": "/Lotr-warcraft-hobbit/static/js/787.db54dd01.chunk.js",
     "static/media/logo9.png": "/Lotr-warcraft-hobbit/static/media/logo9.ae606e296bad3b33190e.png",
     "static/media/smaug-treasure.gif": "/Lotr-warcraft-hobbit/static/media/smaug-treasure.4d127e5f311af4d89abc.gif",
@@ -135,12 +135,12 @@
     "static/media/troll.jpg": "/Lotr-warcraft-hobbit/static/media/troll.7505a4849f3b47518408.jpg",
     "static/media/lotr1.jpg": "/Lotr-warcraft-hobbit/static/media/lotr1.512fddf7e9231955553b.jpg",
     "index.html": "/Lotr-warcraft-hobbit/index.html",
-    "main.09ac1ae6.css.map": "/Lotr-warcraft-hobbit/static/css/main.09ac1ae6.css.map",
-    "main.d80d77a9.js.map": "/Lotr-warcraft-hobbit/static/js/main.d80d77a9.js.map",
+    "main.6aff12bf.css.map": "/Lotr-warcraft-hobbit/static/css/main.6aff12bf.css.map",
+    "main.2cfbcd53.js.map": "/Lotr-warcraft-hobbit/static/js/main.2cfbcd53.js.map",
     "787.db54dd01.chunk.js.map": "/Lotr-warcraft-hobbit/static/js/787.db54dd01.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.09ac1ae6.css",
-    "static/js/main.d80d77a9.js"
+    "static/css/main.6aff12bf.css",
+    "static/js/main.2cfbcd53.js"
   ]
 }
