@@ -19,3 +19,13 @@
     margin: 10px;
     text-decoration: none;
 }
+.asideNav a{
+    padding: 2px;
+    border: 1px solid transparent;
+    transition: 0.5s;
+    width: fit-content;
+}
+.asideNav :global(a.active){
+    border: 1px solid rgb(112, 43, 121);
+    color: rgb(112, 43, 121);
+}

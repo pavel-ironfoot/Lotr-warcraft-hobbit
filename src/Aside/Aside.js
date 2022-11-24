@@ -13,7 +13,7 @@ const Aside = (props) =>{
   });
 
     return (
-      <div className={obj.aside}>
+      <div  className={`${obj.aside} ${obj.asideNav}`}>
         <NavLink className={obj.movies} to='/Lotr-warcraft-hobbit'>All Movies</NavLink>
         <h3>Light side</h3>
         
